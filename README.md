@@ -2,7 +2,7 @@
 
 **About me**
 
-I am now (2023.07 - present) an applied scientist in [OpusClip](https://clip.opus.pro/).
+I am now (2023.08 - present) an applied scientist in [OpusClip](https://clip.opus.pro/).
 
 As the core founder of the Opus AI team, I'm focusing on AI research and innovation initiatives for OpusClip. My expertise lies in application-driven research, strongly emphasizing video understanding and Large Language Model (LLM) Agents. I am passionate about real-world projects and consistently eager to contribute to impactful solutions.
 
